@@ -71,8 +71,10 @@ loans originated in 2012 with completed outcomes.
 ### Page 1: Portfolio & Model Overview
 
 [Portfolio Dashboard] 
+<img width="781" height="459" alt="image" src="https://github.com/user-attachments/assets/4342fa4f-efee-4318-be3b-8e97e9502b40" />
 
 ### Page 2: Model Diagnostics 
+<img width="782" height="443" alt="image" src="https://github.com/user-attachments/assets/7c78f697-930b-4c81-b142-684622d7ba68" />
 
 [Model Diagnostics]
 

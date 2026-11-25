@@ -1,0 +1,3 @@
+model,brier_score
+Logistic Regression,0.12945850965407324
+Baseline,0.13606603686995003
